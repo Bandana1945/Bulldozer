@@ -1,0 +1,332 @@
+newmtl Body
+Kd 0.784314 0.560784 0.207843
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.35 0.35 0.35
+Ns 349
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Body_D
+Kd 0.784314 0.560784 0.207843
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.35 0.35 0.35
+Ns 349
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Hikaru/Downloads/jcb_135b/jcb D.jpg
+
+newmtl Body_G
+Kd 0.784314 0.560784 0.207843
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.35 0.35 0.35
+Ns 349
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Hikaru/Downloads/jcb_135b/jcb G.jpg
+
+newmtl Body_noir
+Kd 0.207843 0.207843 0.207843
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.35 0.35 0.35
+Ns 349
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Body_pelle
+Kd 0.784314 0.560784 0.207843
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.35 0.35 0.35
+Ns 349
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Chrome
+Kd 0.435294 0.435294 0.435294
+Ke 0 0 0
+Ka 0.845 0.845 0.845
+Ks 0.89 0.89 0.89
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Clignotant
+Kd 0.639216 0.380392 0.203922
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.25 0.25 0.25
+Ns 400
+Tr 0.1
+d 0.9
+Ni 1
+Tf 1 1 1
+
+newmtl Essuies-glace
+Kd 0.290196 0.290196 0.290196
+Ke 0 0 0
+Ka 0.76 0.76 0.76
+Ks 0.225 0.225 0.225
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Feux_blanc
+Kd 0.509804 0.509804 0.509804
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Feux_orange
+Kd 0.588235 0.368627 0.203922
+Ke 0 0 0
+Ka 0.84 0.84 0.84
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Feux_rouge
+Kd 0.490196 0.176471 0.176471
+Ke 0 0 0
+Ka 0.91 0.91 0.91
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Feux_rouge_2
+Kd 0.603922 0.227451 0.227451
+Ke 0 0 0
+Ka 0.9 0.9 0.9
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Giro_chrome
+Kd 0.435294 0.435294 0.435294
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.9 0.9 0.9
+Ns 180
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Giro_orange
+Kd 0.862745 0.509804 0.129412
+Ke 0 0 0
+Ka 0.68 0.68 0.68
+Ks 0.25 0.25 0.25
+Ns 400
+Tr 0.325
+d 0.675
+Ni 1
+Tf 1 1 1
+
+newmtl Interieur
+Kd 0.282353 0.282353 0.282353
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.115 0.115 0.115
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Interieur_toit
+Kd 0.537255 0.521569 0.513726
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.05 0.05 0.05
+Ns 259
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Jante
+Kd 0.784314 0.560784 0.207843
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.35 0.35 0.35
+Ns 349
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Jante_ecrous
+Kd 0.294118 0.294118 0.294118
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.34 0.34 0.34
+Ns 500
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Joint_vitre
+Kd 0.25098 0.25098 0.25098
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.16 0.16 0.16
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Metal
+Kd 0.333333 0.329412 0.317647
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.26 0.26 0.26
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Metal_noir
+Kd 0.188235 0.188235 0.188235
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.35 0.35 0.35
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Miroir
+Kd 0.254902 0.254902 0.254902
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Partie_noir
+Kd 0.152941 0.152941 0.152941
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Phare
+Kd 0.227451 0.227451 0.227451
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.655 0.655 0.655
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Phare_vitre
+Kd 0.607843 0.623529 0.635294
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.32 0.32 0.32
+Ns 200
+Tr 0.6
+d 0.4
+Ni 1
+Tf 1 1 1
+
+newmtl Plastique_noir
+Kd 0.254902 0.254902 0.254902
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.15 0.15 0.15
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pneus
+Kd 0.290196 0.286275 0.27451
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.05 0.05 0.05
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Siege
+Kd 0.388235 0.4 0.403922
+Ke 0 0 0
+Ka 0.85 0.85 0.85
+Ks 0.06 0.06 0.06
+Ns 219
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Vitre
+Kd 0.227451 0.278431 0.27451
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.6 0.6 0.6
+Ns 200
+Tr 0.66
+d 0.34
+Ni 1
+Tf 1 1 1
+
+newmtl ZX
+Kd 0.741176 0.678431 0.25098
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.35 0.35 0.35
+Ns 349
+Tr 0.36
+d 0.64
+Ni 1
+Tf 1 1 1
+
